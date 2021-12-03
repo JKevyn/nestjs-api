@@ -19,6 +19,7 @@ PATCH http://localhost:3000/orders/62e27bf2-6487-466a-9a9c-042b5e31813d
 Content-Type: application/json
 
 {
+    "amount": 9000,
     "status": "approved"
 }
 
